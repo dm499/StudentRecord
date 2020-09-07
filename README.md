@@ -1,2 +1,2 @@
 # StudentRecord
-Keeping students' information
+Keeping brief students' information 
